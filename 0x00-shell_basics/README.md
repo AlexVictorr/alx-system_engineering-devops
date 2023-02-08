@@ -5,4 +5,4 @@
 3-listfiles Display current directory contents in a long format.
 4-listmorefiles Display current directory contents, including hidden files (starting with .). Using the long format.
 5-listfilesdigitonly Displays current directory contents with Long format, user and group IDs displayed numerically and hidden files (starting with .)
-6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
+6-firstdirectory creates a new directory named my_first_directory in the /tmp/ directory.
