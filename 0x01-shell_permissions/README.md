@@ -7,3 +7,4 @@
 5-execute adds execute permission to the owner of the file hello in the current working directory.
 6-multiple_permissions adds execute permission to the owner of the file hello in the current working directory.
 7-everybody adds execute permission to the owner of the file hello in the cuurent working directory.
+8-James_Bond sets the permission to the file hello in the working directory as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions.
