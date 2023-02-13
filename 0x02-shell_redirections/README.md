@@ -14,3 +14,4 @@
 13-unique takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word. Output format: One line, one word. Words should be sorted.
 14-findthatword Displays lines containing the pattern “root” from the file /etc/passwd
 15-countthatword Displays lines containing the pattern “root” from the file /etc/passwd
+16-whatsnext Displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
