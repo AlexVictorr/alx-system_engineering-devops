@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==1 {f=$1} {print f,$1}'
+perl -lne 'print if ($.==1);'
